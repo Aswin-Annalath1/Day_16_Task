@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(76, 200, 252) ;
+}
+#countdown{
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+    font-size: 100px;
+    color: rgb(238, 240, 238);
+}
